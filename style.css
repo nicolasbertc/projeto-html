@@ -1,6 +1,7 @@
 :root{
   font-family: "Alice", serif;
   line-height: 150%;
+  color: #573A37;
 }
 
 body{
@@ -16,7 +17,6 @@ body{
   margin: 48px auto;
 }
 
-
 img{
   border-radius: 16px;
 }
@@ -28,5 +28,8 @@ h1{
 
 h2{
   font-size: 24px;
-  
+}
+
+h1,h2{
+  color: #291B1A;
 }
